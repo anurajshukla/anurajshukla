@@ -8,7 +8,7 @@
 
 I'm Anuraj, I like to learn about development
 
-### Skills and Experience
+### Skills
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -31,6 +31,24 @@ I'm Anuraj, I like to learn about development
   <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=anurajshukla&count_private=true&show_icons=true&theme=dark" width="400"></a>
 </p>
 
+## Social media:
+
+<p align="center">
+  
+  <a href="https://www.linkedin.com/in/anuraj-shukla-0662a2231/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/anurajshukla3112/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/>
+  </a>
+  <a href="https://instagram.com/anuraj_.shukla?igshid=OTJhZDVkZWE=" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
+<!--## Some dino to relax:
+ <img align="center" height="200px" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" />
+--!>
 <!--
 **anurajshukla/anurajshukla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
