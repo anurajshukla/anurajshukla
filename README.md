@@ -4,11 +4,17 @@
 </div>
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Anuraj Shukla</h1>
 
-<h1 align="center"> Java Devloper  <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" width="30px"> </h1>
+<h1 align="center"> Java Developer  <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" width="30px"> </h1>
 
-I'm Anuraj, I like to learn about development
+Welcome! I'm Anuraj, a developer from India, I'm passionate about development and am constantly improving my skills through learning and collaborating with others.
 
-### Skills
+In this README, you'll find some information about me and my areas of expertise. I hope that you'll have a better understanding of who I am and what I bring to the table as a developer.
+
+Feel free to explore my repositories and contributions, and don't hesitate to reach out if you have any questions or are interested in collaborating on a project. 
+
+Thanks for visiting!
+
+### Skills:
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -25,14 +31,14 @@ I'm Anuraj, I like to learn about development
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-### Overview
+### Overview:
 <p>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=anurajshukla&count_private=true&show_icons=true&theme=dark" width="400"></a><br>
   <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=anurajshukla&count_private=true&show_icons=true&theme=dark" width="400"></a>
 </p>
 
 ## Social media:
-
+<br>
 <p align="center">
   
   <a href="https://www.linkedin.com/in/anuraj-shukla-0662a2231/" target="_blank">
