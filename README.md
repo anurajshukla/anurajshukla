@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img align="center" alt="GIF" height="150px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+  <img align="center" alt="GIF" height="120px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 <br> 
 </div>
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Anuraj Shukla</h1>
@@ -8,9 +8,9 @@
 
 Welcome! I'm Anuraj, a developer from India, I'm passionate about development and am constantly improving my skills through learning and collaborating with others.
 
-In this README, you'll find some information about me and my areas of expertise. I hope that you'll have a better understanding of who I am and what I bring to the table as a developer.
+In this README, you'll find some information about me and my areas of expertise. I anticipate that after reading this, you'll know more about me and the skills I bring to the table as a developer.
 
-Feel free to explore my repositories and contributions, and don't hesitate to reach out if you have any questions or are interested in collaborating on a project. 
+Browse through my repositories and contributions at your leisure, and don't hesitate to reach out if you have any questions or are interested in collaborating on a project. 
 
 Thanks for visiting!
 
@@ -36,6 +36,11 @@ Thanks for visiting!
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=anurajshukla&count_private=true&show_icons=true&theme=dark" width="400"></a><br>
   <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=anurajshukla&count_private=true&show_icons=true&theme=dark" width="400"></a>
 </p>
+
+## Snake Graph
+
+<img align='center' src='https://github.com/anurajshukla/anurajshukla/blob/output/github-contribution-grid-snake.gif' width='900"'>
+
 
 ## Social media:
 <br>
