@@ -37,11 +37,6 @@ Thanks for visiting!
   <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=anurajshukla&count_private=true&show_icons=true&theme=dark" width="400"></a>
 </p>
 
-## Snake Graph
-
-<img align='center' src='https://github.com/anurajshukla/anurajshukla/blob/output/github-contribution-grid-snake.gif' width='900"'>
-
-
 ## Social media:
 <br>
 <p align="center">
