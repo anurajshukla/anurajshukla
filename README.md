@@ -4,7 +4,7 @@
 </div>
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Anuraj Shukla </h1>
 Welcome! I'm Anuraj, a developer from India, I'm passionate about development and am constantly improving my skills through learning and collaborating with others.
-
+<br>
 In this README, you'll find some information about me and my areas of expertise. I anticipate that after reading this, you'll know more about me and the skills I bring to the table as a developer.
 
 Browse through my repositories and contributions at your leisure, and don't hesitate to reach out if you have any questions or are interested in collaborating on a project. 
