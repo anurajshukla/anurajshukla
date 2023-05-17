@@ -31,9 +31,9 @@ Browse through my repositories and contributions at your leisure, and don't hesi
 
 ### Stats:
 <p>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=anurajshukla&count_private=true&show_icons=true&theme=dark" width="400"></a><br>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=anurajshukla&count_private=false&show_icons=true&theme=dark" width="400"></a><br>
   <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=anurajshukla&count_private=true&show_icons=true&theme=dark" width="400"></a> <br>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anurajshukla&&hide_progress=true&count_private=true&show_icons=true&theme=dark"     width="400"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anurajshukla&&hide_progress=true&count_private=false&show_icons=true&theme=dark"     width="400"></a>
 </p>
 <!-- Snake
 <a href="#"><img src="https://github.com/anurajshukla/anurajshukla/blob/output/github-contribution-grid-snake.svg&count_private=true&show_icons=true&theme=dark"     width="400"></a>
