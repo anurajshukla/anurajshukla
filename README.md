@@ -18,6 +18,10 @@ Browse through my repositories and contributions at your leisure, and don't hesi
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS-Code" **alt="VS-Code" width="50" height="50"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="50" height="50"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
 </div> <br>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
@@ -33,7 +37,7 @@ Browse through my repositories and contributions at your leisure, and don't hesi
 <p>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=anurajshukla&count_private=false&show_icons=true&theme=dark" width="400"></a><br>
   <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=anurajshukla&count_private=true&show_icons=true&theme=dark" width="400"></a> <br>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anurajshukla&&hide_progress=true&count_private=false&show_icons=true&theme=dark"     width="400"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anurajshukla&&hide_progress=true&count_private=false&show_icons=true&theme=dark"     width="400">
 </p>
 <!-- Snake
 <a href="#"><img src="https://github.com/anurajshukla/anurajshukla/blob/output/github-contribution-grid-snake.svg&count_private=true&show_icons=true&theme=dark"     width="400"></a>
