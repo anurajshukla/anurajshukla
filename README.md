@@ -1,16 +1,17 @@
 <div id="header" align="center">
   <img align="center" alt="GIF" height="120px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-<br> 
+<br> <br>
 </div>
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Anuraj Shukla </h1>
-Welcome! I'm Anuraj, a developer in making from India, I'm passionate about development and am constantly improving my skills through learning and collaborating with others.
+<div align="center"<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=pp+mori&weight=600&size=30&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=HELLO%2C+I+AM+ANURAJ;WELCOME+TO+MY+PROFILE" alt="Typing SVG" /></a></div>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a> <br>
+<p> Welcome! I'm Anuraj, a developer in making from India, I'm passionate about development and am constantly improving my skills through learning and collaborating with others. </p>
 <br>
-In this README, you'll find some information about me and my areas of expertise. I anticipate that after reading this, you'll know more about me and the skills I bring to the table as a developer.
-
-Browse through my repositories and contributions at your leisure, and don't hesitate to reach out if you have any questions or are interested in collaborating on a project. 
+ <p> In this README, you'll find some information about me and my areas of expertise. I anticipate that after reading this, you'll know more about me and the skills I bring to the table as a developer. </p> <br>
+<p> Browse through my repositories and contributions at your leisure, and don't hesitate to reach out if you have any questions or are interested in collaborating on a project. </p>
 
 
 ### My Skills:
+
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
@@ -34,7 +35,6 @@ Browse through my repositories and contributions at your leisure, and don't hesi
   </div>
 
 ### Stats:
-
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=anurajshukla&count_private=false&show_icons=true&theme=dark" width="400"><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anurajshukla&count_private=true&show_icons=true&theme=dark" width="400"> <br>
@@ -62,6 +62,7 @@ Browse through my repositories and contributions at your leisure, and don't hesi
 
 
 Thanks for visiting!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anurajshukla&label=Profile%20views&color=0e75b6&style=flat" alt="anurajshukla" /> </p>
 
 <!--## Some dino to relax:
  <img align="center" height="200px" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" />
