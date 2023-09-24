@@ -51,10 +51,10 @@
 <br>
 <p align="center">
   
-  <a href="https://www.linkedin.com/in/anuraj-shukla-0662a2231/" target="_blank">
+  <a href="https://www.linkedin.com/in/anurajshukla/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://leetcode.com/anurajshukla3112/" target="_blank">
+  <a href="https://leetcode.com/anurajshukla/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/>
   </a>
   <a href="https://instagram.com/anuraj_.shukla?igshid=OTJhZDVkZWE=" target="_blank">
