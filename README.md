@@ -40,7 +40,7 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=anurajshukla&theme=react&show_icons=true&include_all_commits=true" width="400"><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anurajshukla&theme=tokyonight" width="400"> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anurajshukla&hide_progress=true&theme=react" width="400">
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anurajshukla&hide_progress=true&theme=react" width="400"> -->
 </p>
 <!--  <a href="#"> --!>
 <!-- Snake
