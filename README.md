@@ -66,7 +66,7 @@
 Thanks for visiting!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anurajshukla&label=Profile%20views&color=0e75b6&style=flat" alt="anurajshukla" /> </p>
 
-
+[![An image of @anurajshukla's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anurajshukla)](https://holopin.io/@anurajshukla)
 
 
 <!-- ## Spotify
