@@ -1,7 +1,9 @@
+<!--
 <div id="header" align="center">
   <img align="center" alt="GIF" height="120px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 <br> <br>
 </div>
+--!>
 <div align="center"<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=pp+mori&weight=600&size=30&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=HELLO%2C+I+AM+ANURAJ;WELCOME+TO+MY+PROFILE" alt="Typing SVG" /></a></div>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a> <br>
 <p> Welcome! I'm Anuraj, a developer in making from India, I'm passionate about development and am constantly improving my skills through learning and collaborating with others. </p>
