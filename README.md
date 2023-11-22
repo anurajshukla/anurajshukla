@@ -7,8 +7,7 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a> 
 <br>
 <p> Welcome! I'm Anuraj, a developer in making from India, I'm passionate about development and am constantly improving my skills through learning and collaborating with others. </p>
-<br>
-<p> In this README, you'll find some information about me and my areas of expertise. I anticipate that after reading this, you'll know more about me and the skills I bring to the table as a developer. </p> <br>
+<!--   <p> In this README, you'll find some information about me and my areas of expertise. I anticipate that after reading this, you'll know more about me and the skills I bring to the table as a developer. </p> <br> -->
 <p> Browse through my repositories and contributions at your leisure, and don't hesitate to reach out if you have any questions or are interested in collaborating on a project. </p>
 
 
